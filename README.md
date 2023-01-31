@@ -12,15 +12,15 @@
 
 * Use of Pivot Table and Pivot Chart.
 
-* Matches win by Team wrt Bat First & Field First Since 2008.
+* Matches won by Team wrt Bat First & Field First Since 2008.
 
-* Top 10 venues with most matches & winning Based on Bat first & Field First
+* Top 10 venues with the most matches & wins Based on Bat first & Field First.
 
-* Top 10 Man of the Match Awards
+* Top 10 Man of the Match Awards.
 
-* Number of Times Titles Winners.
+* The number of Times Titles Winners.
 
-* And finally to make amazing Dashboard.
+* And finally to make an amazing Dashboard.
 
 
 
