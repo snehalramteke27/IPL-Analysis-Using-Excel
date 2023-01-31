@@ -6,9 +6,21 @@ IPL is a popular cricket series played annually in India since 2008. So, we have
 
 * Use of Pivot Table and Pivot Chart.
 
-* To compare the teams by their count number of match wins against each other.
+* Matches win by Team wrt Bat First & Field First Since 2008.
 
-* To find out the popular playgrounds.
+* Top 10 venues with most matches & winning Based on Bat first & Field First
 
-* To show the toss distribution of team’s at different venues.
+* Top 10 Man of the Match Awards
+
+* Number of Times Titles Winners.
+
+* And finally to make amazing Dashboard.
+
+
+
+
+
+
+
+
 
